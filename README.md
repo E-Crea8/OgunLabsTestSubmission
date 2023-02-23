@@ -1,2 +1,2 @@
 # OgunLabsTestSubmission
-My Final WordPress Takehome Assessment by OgunLabs
+My Final WordPress Takehome Assessment Submission by OgunLabs
